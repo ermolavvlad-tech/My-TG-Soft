@@ -71,7 +71,8 @@ export default defineConfig([
   },
 ])
 ```
-## Быстрый старт
+
+#Быстрый старт
 
 ```bash
 npm install
