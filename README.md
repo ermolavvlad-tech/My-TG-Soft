@@ -73,20 +73,10 @@ export default defineConfig([
 ```
 ## Быстрый старт
 
-Установка зависимостей:
 ```bash
 npm install
 npm run dev
 npm run build
 npm run lint
-npm test
-
----
-
-## Важно про `lint` и `test`
-Команды `npm run lint` и `npm test` будут работать **только если они есть в scripts**.
-
-Проверить можно так:
-```bash
-cat package.json
+npm run preview
 
